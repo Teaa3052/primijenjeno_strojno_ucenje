@@ -1,2 +1,2 @@
-# primijenjeno_strojno_ucenje-
+# primijenjeno_strojno_ucenje
 // python
