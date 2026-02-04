@@ -1,1 +1,1 @@
-Riješeni zadaci s laboratorijskih vježbi kolegija primjenjeno strojno učenje
+Applied Machine Learning: Laboratory Exercise Solutions
